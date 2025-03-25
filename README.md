@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently learning python for my career, and everything I need to do what I need
+
+I'm currently working on learning reinforcement learning algorithms
+
+Please teach me the ways of the world
+
 <!--
 **Steins-trait/Steins-trait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
