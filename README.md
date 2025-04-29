@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-I'm currently learning python for my career, and everything I need to do what I need
+I'm currently learning many programming languages for my career, and everything I need to do what I need
+So far I've currently taught myself:
+- python
+- html
+- css
+- javascript
+- MORE MORE MORE
+
+You can find my portfolio at https://steins-trait.github.io/portfolio/
 
 I'm currently working on learning reinforcement learning algorithms
 
